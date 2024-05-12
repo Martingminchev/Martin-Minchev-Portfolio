@@ -23,7 +23,7 @@ body{
   padding:2rem;
   background-color: rgba(255, 123, 222, 0.15);
   margin-left: 15vw;
-  margin-top: 15vh;
+  margin-top: 10vh;
   position:absolute;
   box-shadow: 10px 10px 15px rgba(165, 73, 204, 0.39);
   backdrop-filter: blur(5px);
